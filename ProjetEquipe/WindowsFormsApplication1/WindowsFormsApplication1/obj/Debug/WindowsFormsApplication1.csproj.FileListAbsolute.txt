@@ -1,0 +1,15 @@
+C:\Users\Mathieu St-Yves\Documents\TestGit\ProjetEquipe\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Mathieu St-Yves\Documents\TestGit\ProjetEquipe\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Mathieu St-Yves\Documents\TestGit\ProjetEquipe\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mathieu St-Yves\Documents\TestGit\ProjetEquipe\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Mathieu St-Yves\Documents\TestGit\ProjetEquipe\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mathieu St-Yves\Documents\TestGit\ProjetEquipe\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mathieu St-Yves\Documents\TestGit\ProjetEquipe\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Mathieu St-Yves\Documents\TestGit\ProjetEquipe\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Mathieu St-Yves\Documents\TestGit\ProjetEquipe\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mathieu St-Yves\Documents\VisualStudio\ProjetEquipe\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Mathieu St-Yves\Documents\VisualStudio\ProjetEquipe\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Mathieu St-Yves\Documents\VisualStudio\ProjetEquipe\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mathieu St-Yves\Documents\GitFrance\ProjetEquipe\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Mathieu St-Yves\Documents\GitFrance\ProjetEquipe\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Mathieu St-Yves\Documents\GitFrance\ProjetEquipe\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
